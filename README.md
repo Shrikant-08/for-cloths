@@ -2,3 +2,4 @@
 #shirt
 #pant
 #t-shirt
+#trouser
